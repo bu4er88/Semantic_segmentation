@@ -7,4 +7,4 @@
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/71853448/114216021-01781a80-996f-11eb-9006-b72f3f1c476d.gif)
 
 
-You can also chek up my notebook at Kaggle: https://www.kaggle.com/yauhenikavaliou/camseq-semantic-segmentation/edit
+You can also chek up my notebook at Kaggle: https://www.kaggle.com/yauhenikavaliou/camseq-semantic-segmentation
